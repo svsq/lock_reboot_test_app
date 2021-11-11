@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lock Reboot Test App</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="title_lock_device">Lock</string>
+    <string name="title_unlock_device">Unlock</string>
+    <string name="title_set_admin">Set Admin</string>
+    <string name="owner_mode_true">Admin True</string>
+    <string name="owner_mode_false">Admin False</string>
+    <string name="wifi_stats_off">Wifi: OFF</string>
+    <string name="wifi_stats_on">Wifi: ON</string>
+</resources>
