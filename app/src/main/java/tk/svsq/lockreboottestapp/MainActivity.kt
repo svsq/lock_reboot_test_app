@@ -130,7 +130,7 @@ class MainActivity : AppCompatActivity() {
                 btnLockDevice.text = getString(R.string.title_lock_device)
             } else {
                 tvIsOwner.text = getString(R.string.owner_mode_false)
-                btnLockDevice.text = getString(R.string.title_set_admin)
+                btnLockDevice.text = getString(R.string.title_set_admin) 
             }
 
             viewModel.wifiStatsLiveData.observe(this@MainActivity) {

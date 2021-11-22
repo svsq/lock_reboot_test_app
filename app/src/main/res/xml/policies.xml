@@ -3,11 +3,11 @@
     <uses-policies>
         <disable-keyguard-features />
         <encrypted-storage />
-        <expire-password />
+        <!--<expire-password />
         <force-lock />
         <limit-password />
         <reset-password />
         <watch-login />
-        <wipe-data />
+        <wipe-data />-->
     </uses-policies>
 </device-admin>
